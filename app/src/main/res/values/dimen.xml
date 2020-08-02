@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="textSizeStopwacher">40sp</dimen>
+    <dimen name="sizeProgressStopwatch">300dp</dimen>
+
+    <dimen name="sizeWidthScrollLap">200dp</dimen>
+    <dimen name="sizeHeightScrollLap">300dp</dimen>
+    <dimen name="marginScrollLap">30dp</dimen>
+</resources>

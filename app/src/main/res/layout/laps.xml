@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView
+    android:id="@+id/textViewLaps"
+    xmlns:tool="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:textStyle="bold"
+    android:textAlignment="center"
+    android:padding="4dp"
+    android:textColor="@color/black"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    tool:text="Lap 1: 00:00:000"
+    android:textSize="20sp" />

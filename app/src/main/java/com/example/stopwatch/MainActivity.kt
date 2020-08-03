@@ -15,6 +15,7 @@ import org.koin.android.viewmodel.ext.android.viewModel
 class MainActivity : AppCompatActivity(), View.OnClickListener {
 
     private val viewModel: HomeViewModel by viewModel()
+
     private lateinit var adapterListLaps: ArrayAdapter<String>
     private lateinit var blink: Animation
     private lateinit var blinkOff: Animation
